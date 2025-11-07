@@ -1,0 +1,9 @@
+{
+  "name": "discord-ping-api",
+  "version": "2.0.0",
+  "type": "module",
+  "dependencies": {
+    "ws": "^8.17.1",
+    "node-fetch": "^3.3.2"
+  }
+}
