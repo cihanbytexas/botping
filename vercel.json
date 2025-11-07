@@ -1,4 +1,0 @@
-{
-  "version": 2,
-  "builds": [{ "src": "pages/api/ping.js", "use": "@vercel/node" }]
-}
